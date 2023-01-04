@@ -1,6 +1,6 @@
 # AirBnB-Project
 ## Objective
-AirBnB data to track their activities in  Seattle, Washington State was explored and visualized in Tableau to uncover insights about the operations
+AirBnB data aimed to keep track of their activities in  Seattle, Washington State was explored and visualized in Tableau to uncover insights about the operations
 of AirBnB in the city.
 ## Data Source
 The data is publicly available [Here](http://insideairbnb.com/get-the-data/)
