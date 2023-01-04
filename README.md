@@ -6,7 +6,7 @@ of AirBnB in the city.
 The data is publicly available [Here](http://insideairbnb.com/get-the-data/)
 ## Data Processing
 The data as downloaded from the website contained relevant columns in three different document. For ease in visualization on tableau,
-the three seperate files were compiled in a single Excel workbook document on three seperate sheets. After a connection was establsihed 
+the three seperate files were compiled in a single Excel workbook document on three seperate sheets. After a connection was established 
 to the data source in Tableau, an inner join was used to tie the three tables together based on their common column field and the data was ready for analysis and
 visualization in Tableau.
 
